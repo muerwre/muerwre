@@ -1,3 +1,3 @@
-- [Knowledge database](https://github.com/muerwre/knowledge-db)
+- [My cheatsheet](https://docs.vault48.org/)
 - [Vault48 project](https://github.com/muerwre/vault-frontend)
 - [Orchid map project](https://github.com/muerwre/orchidmap-front)
