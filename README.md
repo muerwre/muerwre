@@ -5,4 +5,4 @@
 - [Self-hosted Obsidian Vault](https://github.com/muerwre/obsidian-publish)
 - [Personal page](https://github.com/muerwre/muerwre.github.io) at https://muerwre.github.io/
 - [Knowledge database](https://github.com/muerwre/docs.vaul48.org) at https://docs.vault48.org/
-- [VK to Telegram bot](https://github.com/muerwre/nvs-tg-bot), serves [@pogonia_nsk](https://t.me/pogonia_nsk)
+- [VK to Telegram bot](https://github.com/muerwre/vk-tg-bot), serves [@pogonia_nsk](https://t.me/pogonia_nsk)
